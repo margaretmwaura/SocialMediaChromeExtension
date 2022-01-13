@@ -17,4 +17,5 @@ git clone https://github.com/margaretmwaura/SocialMediaChromeExtension.git
 ```
 
 2) Go to chrome://extensions/
-3) Click on the button load unpacked and select the location where you cloned the repo in.
+3) Click on the button load unpacked and select the location where you cloned the repo in. The extension has now being added
+4) Open a new tab. Click on the extensions icon and pin the extension to your new chrome page.
