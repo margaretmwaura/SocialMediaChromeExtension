@@ -12,7 +12,7 @@ To see the extension in action
 1) clone the repo
 
 ```
-https://github.com/margaretmwaura/SocialMediaChromeExtension.git
+git clone https://github.com/margaretmwaura/SocialMediaChromeExtension.git
 
 ```
 
