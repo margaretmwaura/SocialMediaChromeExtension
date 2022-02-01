@@ -1,3 +1,15 @@
+body{
+    height: 100px;
+    width: 200px;
+}
+
+p{
+  margin: 30px 3px 10px 3px;
+  font-weight: bold;
+  font-size: 16px;
+  justify-content: space-around;
+}
+
 button {
     height: 30px;
     width: 60px;
@@ -5,6 +17,7 @@ button {
     margin: 10px;
     border: none;
     border-radius: 2px;
+    margin-left: 60px;
   }
   
   button.current {

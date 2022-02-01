@@ -37,7 +37,7 @@ changeColor.addEventListener("click", async () => {
     //   document.body.style.backgroundColor = color;
     // });
       setTimeout(function(){
-        alert("You have been on our page for way too long .. go get bread sha and your daily 2k")
+        alert("You have been on our page for way too long mate .. go get bread sha and your daily 2k")
       }, 5000);      
   
   }
